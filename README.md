@@ -1,4 +1,5 @@
 这是一个A股股票分析软件，主要功能包括：
+
 1.获取单只股票历史价格数据和日内时分数据，并绘图展示。
 <img width="2474" height="1435" alt="估值与价格数据" src="https://github.com/user-attachments/assets/ff4a1421-ed31-4b5e-8019-bccf1cb063f5" />
 <img width="2468" height="1400" alt="绘图" src="https://github.com/user-attachments/assets/52263221-2149-4665-8391-e1fbd209ee4a" />
